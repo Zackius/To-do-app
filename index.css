@@ -1,0 +1,29 @@
+body{
+    background-color: aqua;
+}
+.to-do{
+width: 500px;
+height: 500px;
+
+margin: auto;
+text-align: center;
+}
+.to-do p{
+    font-size: 2rem;
+}
+.to-do input{
+    width: 250px;
+    height: 30px
+}
+.to-do button {
+    height: 30px;
+    background-color:darkgray;
+}
+.main{
+    
+}
+.paragraph-style{
+    margin: 0;
+    cursor: pointer;
+    font-size: 2px;
+}
